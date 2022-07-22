@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-border-radius",
+  "version": "1.0.0",
+  "description": "Responsive Border Radius built with Bootstrap 5. Use border radius to define the radius of the element's corners. This component gives you an ability to add rounded corners to elements",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-border-radius.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "reponsive",
+    "responsive-design",
+    "border-radius"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-border-radius/issues"
+  },
+  "homepage": "https://github.com/mdbootstrap/bootstrap-border-radius#readme"
+}
